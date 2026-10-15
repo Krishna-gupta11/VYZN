@@ -1,0 +1,10 @@
+VYZN — Windows build quick guide
+
+1. Extract VYZN_Updated.
+2. Install Python 3.11+ for Windows (ensure `py` works in Command Prompt).
+3. Double-click build_windows.bat.
+4. Share dist\VYZN_SHARE.zip with friends.
+5. Friends extract the entire ZIP and run VYZN.exe.
+
+Do not share only VYZN.exe; keep the adjacent dependency files/folders together.
+The packaged app stores each user's data in %APPDATA%\VYZN\vyzn.db.
